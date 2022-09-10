@@ -1,5 +1,5 @@
 # My-Portfolio
-This is my Portfolio Website . This Website is fully Resposive for all the devices . 
+This is my Portfolio Website . This Website is fully Respnosive for all the devices . 
 In this Website I used Following technologies HTML, CSS and add some functionalty using Javascript. 
 You can also download My resume from this website. The Form Section Which I made in this website is also working . 
 When we submit details in form then those details will sent to google sheet and saved there. 
